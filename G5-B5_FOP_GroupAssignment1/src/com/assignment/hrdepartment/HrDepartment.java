@@ -1,4 +1,6 @@
-package Departments;
+package com.assignment.hrdepartment;
+
+import com.assignment.superdepartment.SuperDepartment;
 
 public class HrDepartment extends SuperDepartment {
 

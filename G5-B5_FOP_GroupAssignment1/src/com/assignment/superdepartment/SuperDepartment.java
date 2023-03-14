@@ -1,4 +1,4 @@
-package Departments;
+package com.assignment.superdepartment;
 
 public class SuperDepartment {
 

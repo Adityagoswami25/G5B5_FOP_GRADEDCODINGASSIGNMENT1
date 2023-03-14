@@ -1,8 +1,8 @@
-package DepartmentsMain;
+package com.assignment.main;
 
-import Departments.AdminDepartment;
-import Departments.HrDepartment;
-import Departments.TechDepartment;
+import com.assignment.admindepartment.AdminDepartment;
+import com.assignment.hrdepartment.HrDepartment;
+import com.assignment.techdepartment.TechDepartment;
 
 public class Main {
 
